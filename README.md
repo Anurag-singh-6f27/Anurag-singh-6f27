@@ -104,8 +104,6 @@ Reads emails from multiple accounts, summarizes them using LLMs, and delivers su
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anurag-singh-6f27&theme=tokyonight"/>
 </p>
