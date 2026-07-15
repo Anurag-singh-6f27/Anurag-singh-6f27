@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anurag Singh
 
-### 🚀 Full Stack Developer | Backend Engineer | AI & Machine Learning Enthusiast
+### 🚀 Full Stack Developer | Backend Engineer | AI & Machine Learning Developer
 
 I'm a passionate software developer who enjoys building scalable backend systems, full-stack web applications, and AI-powered solutions.
 
